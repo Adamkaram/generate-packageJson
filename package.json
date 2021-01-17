@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "init-package-json": "^2.0.1",
+    "inquirer": "^7.3.3",
+    "latest-version": "^5.1.0"
+  },
+  "bin": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AdamKaram <ahmadkarm432@gmail.com>",
+  "license": "ISC",
+  "name": "tpanada",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "description": ""
+}
